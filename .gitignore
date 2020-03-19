@@ -2,3 +2,4 @@ auditor-node/elementsregtest
 receiver-node/elementsregtest
 sender-node/elementsregtest
 bitcoin-node/regtest
+bonus/node_modules

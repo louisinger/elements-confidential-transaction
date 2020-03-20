@@ -1,5 +1,5 @@
 # elements-confidential-transaction
-Starting pack for "I tested Elements (part 2)"
+Starter pack for "I tested Elements (part 2)"
 
 ## Elements nodes
 `auditor-node`, `receiver-node` and `sender-node` contain the elements node data.
